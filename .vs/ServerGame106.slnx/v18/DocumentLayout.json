@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\gameback-end\\ServerGame106\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{64E9ACA8-DCD6-2B28-A621-A2BE341E099B}|ServerGame106\\ServerGame106.csproj|d:\\gameback-end\\servergame106\\servergame106\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E9ACA8-DCD6-2B28-A621-A2BE341E099B}|ServerGame106\\ServerGame106.csproj|solutionrelative:servergame106\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E9ACA8-DCD6-2B28-A621-A2BE341E099B}|ServerGame106\\ServerGame106.csproj|d:\\gameback-end\\servergame106\\servergame106\\models\\game106model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E9ACA8-DCD6-2B28-A621-A2BE341E099B}|ServerGame106\\ServerGame106.csproj|solutionrelative:servergame106\\models\\game106model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{64E9ACA8-DCD6-2B28-A621-A2BE341E099B}|ServerGame106\\ServerGame106.csproj|d:\\gameback-end\\servergame106\\servergame106\\models\\responseapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{64E9ACA8-DCD6-2B28-A621-A2BE341E099B}|ServerGame106\\ServerGame106.csproj|solutionrelative:servergame106\\models\\responseapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,14 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{64E9ACA8-DCD6-2B28-A621-A2BE341E099B}|ServerGame106\\ServerGame106.csproj|d:\\gameback-end\\servergame106\\servergame106\\models\\gamelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{64E9ACA8-DCD6-2B28-A621-A2BE341E099B}|ServerGame106\\ServerGame106.csproj|solutionrelative:servergame106\\models\\gamelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64E9ACA8-DCD6-2B28-A621-A2BE341E099B}|ServerGame106\\ServerGame106.csproj|d:\\gameback-end\\servergame106\\servergame106\\models\\game106model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64E9ACA8-DCD6-2B28-A621-A2BE341E099B}|ServerGame106\\ServerGame106.csproj|solutionrelative:servergame106\\models\\game106model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64E9ACA8-DCD6-2B28-A621-A2BE341E099B}|ServerGame106\\ServerGame106.csproj|d:\\gameback-end\\servergame106\\servergame106\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64E9ACA8-DCD6-2B28-A621-A2BE341E099B}|ServerGame106\\ServerGame106.csproj|solutionrelative:servergame106\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{64E9ACA8-DCD6-2B28-A621-A2BE341E099B}|ServerGame106\\ServerGame106.csproj|d:\\gameback-end\\servergame106\\servergame106\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -90,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "D:\\gameback-end\\ServerGame106\\ServerGame106\\Models\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "ServerGame106\\Models\\ApplicationUser.cs",
@@ -106,11 +106,12 @@
               "RelativeToolTip": "ServerGame106\\Models\\ApplicationUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T15:57:02.745Z"
+              "WhenOpened": "2025-11-21T15:57:02.745Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Game106Model.cs",
               "DocumentMoniker": "D:\\gameback-end\\ServerGame106\\ServerGame106\\Models\\Game106Model.cs",
               "RelativeDocumentMoniker": "ServerGame106\\Models\\Game106Model.cs",
@@ -118,11 +119,12 @@
               "RelativeToolTip": "ServerGame106\\Models\\Game106Model.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T15:34:03.189Z"
+              "WhenOpened": "2025-11-21T15:34:03.189Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "GameLevel.cs",
               "DocumentMoniker": "D:\\gameback-end\\ServerGame106\\ServerGame106\\Models\\GameLevel.cs",
               "RelativeDocumentMoniker": "ServerGame106\\Models\\GameLevel.cs",
@@ -134,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "LevelResult.cs",
               "DocumentMoniker": "D:\\gameback-end\\ServerGame106\\ServerGame106\\Models\\LevelResult.cs",
               "RelativeDocumentMoniker": "ServerGame106\\Models\\LevelResult.cs",
@@ -146,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Question.cs",
               "DocumentMoniker": "D:\\gameback-end\\ServerGame106\\ServerGame106\\Models\\Question.cs",
               "RelativeDocumentMoniker": "ServerGame106\\Models\\Question.cs",
@@ -158,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Region.cs",
               "DocumentMoniker": "D:\\gameback-end\\ServerGame106\\ServerGame106\\Models\\Region.cs",
               "RelativeDocumentMoniker": "ServerGame106\\Models\\Region.cs",
@@ -170,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ResponseApi.cs",
               "DocumentMoniker": "D:\\gameback-end\\ServerGame106\\ServerGame106\\Models\\ResponseApi.cs",
               "RelativeDocumentMoniker": "ServerGame106\\Models\\ResponseApi.cs",
