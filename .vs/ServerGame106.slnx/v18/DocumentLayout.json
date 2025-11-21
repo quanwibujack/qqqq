@@ -3,84 +3,84 @@
   "WorkspaceRootPath": "D:\\gameback-end\\ServerGame106\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1682A21D-6C2C-4828-9B2D-608FC126B866}|ServerGame106\\ServerGame106.csproj|d:\\gameback-end\\servergame106\\servergame106\\controllers\\apigamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1682A21D-6C2C-4828-9B2D-608FC126B866}|ServerGame106\\ServerGame106.csproj|solutionrelative:servergame106\\controllers\\apigamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64E9ACA8-DCD6-2B28-A621-A2BE341E099B}|ServerGame106\\ServerGame106.csproj|d:\\gameback-end\\servergame106\\servergame106\\models\\responseapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E9ACA8-DCD6-2B28-A621-A2BE341E099B}|ServerGame106\\ServerGame106.csproj|solutionrelative:servergame106\\models\\responseapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1682A21D-6C2C-4828-9B2D-608FC126B866}|ServerGame106\\ServerGame106.csproj|d:\\gameback-end\\servergame106\\servergame106\\viewmodel\\userinformationvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1682A21D-6C2C-4828-9B2D-608FC126B866}|ServerGame106\\ServerGame106.csproj|solutionrelative:servergame106\\viewmodel\\userinformationvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64E9ACA8-DCD6-2B28-A621-A2BE341E099B}|ServerGame106\\ServerGame106.csproj|d:\\gameback-end\\servergame106\\servergame106\\models\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E9ACA8-DCD6-2B28-A621-A2BE341E099B}|ServerGame106\\ServerGame106.csproj|solutionrelative:servergame106\\models\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1682A21D-6C2C-4828-9B2D-608FC126B866}|ServerGame106\\ServerGame106.csproj|d:\\gameback-end\\servergame106\\servergame106\\viewmodel\\ratingvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1682A21D-6C2C-4828-9B2D-608FC126B866}|ServerGame106\\ServerGame106.csproj|solutionrelative:servergame106\\viewmodel\\ratingvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64E9ACA8-DCD6-2B28-A621-A2BE341E099B}|ServerGame106\\ServerGame106.csproj|d:\\gameback-end\\servergame106\\servergame106\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E9ACA8-DCD6-2B28-A621-A2BE341E099B}|ServerGame106\\ServerGame106.csproj|solutionrelative:servergame106\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1682A21D-6C2C-4828-9B2D-608FC126B866}|ServerGame106\\ServerGame106.csproj|d:\\gameback-end\\servergame106\\servergame106\\servergame106.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{1682A21D-6C2C-4828-9B2D-608FC126B866}|ServerGame106\\ServerGame106.csproj|solutionrelative:servergame106\\servergame106.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{64E9ACA8-DCD6-2B28-A621-A2BE341E099B}|ServerGame106\\ServerGame106.csproj|d:\\gameback-end\\servergame106\\servergame106\\models\\levelresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E9ACA8-DCD6-2B28-A621-A2BE341E099B}|ServerGame106\\ServerGame106.csproj|solutionrelative:servergame106\\models\\levelresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1682A21D-6C2C-4828-9B2D-608FC126B866}|ServerGame106\\ServerGame106.csproj|d:\\gameback-end\\servergame106\\servergame106\\dto\\levelresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1682A21D-6C2C-4828-9B2D-608FC126B866}|ServerGame106\\ServerGame106.csproj|solutionrelative:servergame106\\dto\\levelresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64E9ACA8-DCD6-2B28-A621-A2BE341E099B}|ServerGame106\\ServerGame106.csproj|d:\\gameback-end\\servergame106\\servergame106\\models\\gamelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E9ACA8-DCD6-2B28-A621-A2BE341E099B}|ServerGame106\\ServerGame106.csproj|solutionrelative:servergame106\\models\\gamelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1682A21D-6C2C-4828-9B2D-608FC126B866}|ServerGame106\\ServerGame106.csproj|d:\\gameback-end\\servergame106\\servergame106\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1682A21D-6C2C-4828-9B2D-608FC126B866}|ServerGame106\\ServerGame106.csproj|solutionrelative:servergame106\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64E9ACA8-DCD6-2B28-A621-A2BE341E099B}|ServerGame106\\ServerGame106.csproj|d:\\gameback-end\\servergame106\\servergame106\\models\\game106model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E9ACA8-DCD6-2B28-A621-A2BE341E099B}|ServerGame106\\ServerGame106.csproj|solutionrelative:servergame106\\models\\game106model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1682A21D-6C2C-4828-9B2D-608FC126B866}|ServerGame106\\ServerGame106.csproj|d:\\gameback-end\\servergame106\\servergame106\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1682A21D-6C2C-4828-9B2D-608FC126B866}|ServerGame106\\ServerGame106.csproj|solutionrelative:servergame106\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64E9ACA8-DCD6-2B28-A621-A2BE341E099B}|ServerGame106\\ServerGame106.csproj|d:\\gameback-end\\servergame106\\servergame106\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E9ACA8-DCD6-2B28-A621-A2BE341E099B}|ServerGame106\\ServerGame106.csproj|solutionrelative:servergame106\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1682A21D-6C2C-4828-9B2D-608FC126B866}|ServerGame106\\ServerGame106.csproj|d:\\gameback-end\\servergame106\\servergame106\\models\\responseapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1682A21D-6C2C-4828-9B2D-608FC126B866}|ServerGame106\\ServerGame106.csproj|solutionrelative:servergame106\\models\\responseapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64E9ACA8-DCD6-2B28-A621-A2BE341E099B}|ServerGame106\\ServerGame106.csproj|d:\\gameback-end\\servergame106\\servergame106\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E9ACA8-DCD6-2B28-A621-A2BE341E099B}|ServerGame106\\ServerGame106.csproj|solutionrelative:servergame106\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\gameback-end\\ServerGame106\\ServerGame106\\Migrations\\20251121164907_addLevelResultToDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ServerGame106\\Migrations\\20251121164907_addLevelResultToDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64E9ACA8-DCD6-2B28-A621-A2BE341E099B}|ServerGame106\\ServerGame106.csproj|d:\\gameback-end\\servergame106\\servergame106\\dto\\levelresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E9ACA8-DCD6-2B28-A621-A2BE341E099B}|ServerGame106\\ServerGame106.csproj|solutionrelative:servergame106\\dto\\levelresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1682A21D-6C2C-4828-9B2D-608FC126B866}|ServerGame106\\ServerGame106.csproj|d:\\gameback-end\\servergame106\\servergame106\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1682A21D-6C2C-4828-9B2D-608FC126B866}|ServerGame106\\ServerGame106.csproj|solutionrelative:servergame106\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64E9ACA8-DCD6-2B28-A621-A2BE341E099B}|ServerGame106\\ServerGame106.csproj|d:\\gameback-end\\servergame106\\servergame106\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E9ACA8-DCD6-2B28-A621-A2BE341E099B}|ServerGame106\\ServerGame106.csproj|solutionrelative:servergame106\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1682A21D-6C2C-4828-9B2D-608FC126B866}|ServerGame106\\ServerGame106.csproj|d:\\gameback-end\\servergame106\\servergame106\\models\\levelresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1682A21D-6C2C-4828-9B2D-608FC126B866}|ServerGame106\\ServerGame106.csproj|solutionrelative:servergame106\\models\\levelresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64E9ACA8-DCD6-2B28-A621-A2BE341E099B}|ServerGame106\\ServerGame106.csproj|d:\\gameback-end\\servergame106\\servergame106\\controllers\\apigamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E9ACA8-DCD6-2B28-A621-A2BE341E099B}|ServerGame106\\ServerGame106.csproj|solutionrelative:servergame106\\controllers\\apigamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\gameback-end\\ServerGame106\\ServerGame106\\Migrations\\20251121163943_SeedData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ServerGame106\\Migrations\\20251121163943_SeedData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64E9ACA8-DCD6-2B28-A621-A2BE341E099B}|ServerGame106\\ServerGame106.csproj|d:\\gameback-end\\servergame106\\servergame106\\viewmodel\\userinformationvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E9ACA8-DCD6-2B28-A621-A2BE341E099B}|ServerGame106\\ServerGame106.csproj|solutionrelative:servergame106\\viewmodel\\userinformationvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\gameback-end\\ServerGame106\\ServerGame106\\Migrations\\20251121155954_addUserModelToDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ServerGame106\\Migrations\\20251121155954_addUserModelToDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64E9ACA8-DCD6-2B28-A621-A2BE341E099B}|ServerGame106\\ServerGame106.csproj|d:\\gameback-end\\servergame106\\servergame106\\viewmodel\\ratingvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E9ACA8-DCD6-2B28-A621-A2BE341E099B}|ServerGame106\\ServerGame106.csproj|solutionrelative:servergame106\\viewmodel\\ratingvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1682A21D-6C2C-4828-9B2D-608FC126B866}|ServerGame106\\ServerGame106.csproj|d:\\gameback-end\\servergame106\\servergame106\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1682A21D-6C2C-4828-9B2D-608FC126B866}|ServerGame106\\ServerGame106.csproj|solutionrelative:servergame106\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64E9ACA8-DCD6-2B28-A621-A2BE341E099B}|ServerGame106\\ServerGame106.csproj|d:\\gameback-end\\servergame106\\servergame106\\servergame106.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{64E9ACA8-DCD6-2B28-A621-A2BE341E099B}|ServerGame106\\ServerGame106.csproj|solutionrelative:servergame106\\servergame106.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\gameback-end\\ServerGame106\\ServerGame106\\Migrations\\20251121155111_addModelsGameToDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ServerGame106\\Migrations\\20251121155111_addModelsGameToDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64E9ACA8-DCD6-2B28-A621-A2BE341E099B}|ServerGame106\\ServerGame106.csproj|d:\\gameback-end\\servergame106\\servergame106\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E9ACA8-DCD6-2B28-A621-A2BE341E099B}|ServerGame106\\ServerGame106.csproj|solutionrelative:servergame106\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1682A21D-6C2C-4828-9B2D-608FC126B866}|ServerGame106\\ServerGame106.csproj|d:\\gameback-end\\servergame106\\servergame106\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1682A21D-6C2C-4828-9B2D-608FC126B866}|ServerGame106\\ServerGame106.csproj|solutionrelative:servergame106\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64E9ACA8-DCD6-2B28-A621-A2BE341E099B}|ServerGame106\\ServerGame106.csproj|d:\\gameback-end\\servergame106\\servergame106\\migrations\\20251121164907_addlevelresulttodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E9ACA8-DCD6-2B28-A621-A2BE341E099B}|ServerGame106\\ServerGame106.csproj|solutionrelative:servergame106\\migrations\\20251121164907_addlevelresulttodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1682A21D-6C2C-4828-9B2D-608FC126B866}|ServerGame106\\ServerGame106.csproj|d:\\gameback-end\\servergame106\\servergame106\\models\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1682A21D-6C2C-4828-9B2D-608FC126B866}|ServerGame106\\ServerGame106.csproj|solutionrelative:servergame106\\models\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64E9ACA8-DCD6-2B28-A621-A2BE341E099B}|ServerGame106\\ServerGame106.csproj|d:\\gameback-end\\servergame106\\servergame106\\migrations\\20251121163943_seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E9ACA8-DCD6-2B28-A621-A2BE341E099B}|ServerGame106\\ServerGame106.csproj|solutionrelative:servergame106\\migrations\\20251121163943_seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1682A21D-6C2C-4828-9B2D-608FC126B866}|ServerGame106\\ServerGame106.csproj|d:\\gameback-end\\servergame106\\servergame106\\models\\gamelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1682A21D-6C2C-4828-9B2D-608FC126B866}|ServerGame106\\ServerGame106.csproj|solutionrelative:servergame106\\models\\gamelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64E9ACA8-DCD6-2B28-A621-A2BE341E099B}|ServerGame106\\ServerGame106.csproj|d:\\gameback-end\\servergame106\\servergame106\\migrations\\20251121155954_addusermodeltodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E9ACA8-DCD6-2B28-A621-A2BE341E099B}|ServerGame106\\ServerGame106.csproj|solutionrelative:servergame106\\migrations\\20251121155954_addusermodeltodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1682A21D-6C2C-4828-9B2D-608FC126B866}|ServerGame106\\ServerGame106.csproj|d:\\gameback-end\\servergame106\\servergame106\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1682A21D-6C2C-4828-9B2D-608FC126B866}|ServerGame106\\ServerGame106.csproj|solutionrelative:servergame106\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{64E9ACA8-DCD6-2B28-A621-A2BE341E099B}|ServerGame106\\ServerGame106.csproj|d:\\gameback-end\\servergame106\\servergame106\\migrations\\20251121155111_addmodelsgametodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E9ACA8-DCD6-2B28-A621-A2BE341E099B}|ServerGame106\\ServerGame106.csproj|solutionrelative:servergame106\\migrations\\20251121155111_addmodelsgametodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1682A21D-6C2C-4828-9B2D-608FC126B866}|ServerGame106\\ServerGame106.csproj|d:\\gameback-end\\servergame106\\servergame106\\models\\game106model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1682A21D-6C2C-4828-9B2D-608FC126B866}|ServerGame106\\ServerGame106.csproj|solutionrelative:servergame106\\models\\game106model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64E9ACA8-DCD6-2B28-A621-A2BE341E099B}|ServerGame106\\ServerGame106.csproj|d:\\gameback-end\\servergame106\\servergame106\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{64E9ACA8-DCD6-2B28-A621-A2BE341E099B}|ServerGame106\\ServerGame106.csproj|solutionrelative:servergame106\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,102 +90,87 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserInformationVM.cs",
-              "DocumentMoniker": "D:\\gameback-end\\ServerGame106\\ServerGame106\\ViewModel\\UserInformationVM.cs",
-              "RelativeDocumentMoniker": "ServerGame106\\ViewModel\\UserInformationVM.cs",
-              "ToolTip": "D:\\gameback-end\\ServerGame106\\ServerGame106\\ViewModel\\UserInformationVM.cs",
-              "RelativeToolTip": "ServerGame106\\ViewModel\\UserInformationVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T17:11:05.118Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RatingVM.cs",
-              "DocumentMoniker": "D:\\gameback-end\\ServerGame106\\ServerGame106\\ViewModel\\RatingVM.cs",
-              "RelativeDocumentMoniker": "ServerGame106\\ViewModel\\RatingVM.cs",
-              "ToolTip": "D:\\gameback-end\\ServerGame106\\ServerGame106\\ViewModel\\RatingVM.cs",
-              "RelativeToolTip": "ServerGame106\\ViewModel\\RatingVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T17:09:51.046Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LevelResultDTO.cs",
-              "DocumentMoniker": "D:\\gameback-end\\ServerGame106\\ServerGame106\\DTO\\LevelResultDTO.cs",
-              "RelativeDocumentMoniker": "ServerGame106\\DTO\\LevelResultDTO.cs",
-              "ToolTip": "D:\\gameback-end\\ServerGame106\\ServerGame106\\DTO\\LevelResultDTO.cs",
-              "RelativeToolTip": "ServerGame106\\DTO\\LevelResultDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T17:07:24.286Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "RegisterDTO.cs",
-              "DocumentMoniker": "D:\\gameback-end\\ServerGame106\\ServerGame106\\DTO\\RegisterDTO.cs",
-              "RelativeDocumentMoniker": "ServerGame106\\DTO\\RegisterDTO.cs",
-              "ToolTip": "D:\\gameback-end\\ServerGame106\\ServerGame106\\DTO\\RegisterDTO.cs",
-              "RelativeToolTip": "ServerGame106\\DTO\\RegisterDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T17:01:19.246Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ServerGame106",
-              "DocumentMoniker": "D:\\gameback-end\\ServerGame106\\ServerGame106\\ServerGame106.csproj",
-              "RelativeDocumentMoniker": "ServerGame106\\ServerGame106.csproj",
-              "ToolTip": "D:\\gameback-end\\ServerGame106\\ServerGame106\\ServerGame106.csproj",
-              "RelativeToolTip": "ServerGame106\\ServerGame106.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-21T17:00:45.61Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\gameback-end\\ServerGame106\\ServerGame106\\Program.cs",
-              "RelativeDocumentMoniker": "ServerGame106\\Program.cs",
-              "ToolTip": "D:\\gameback-end\\ServerGame106\\ServerGame106\\Program.cs",
-              "RelativeToolTip": "ServerGame106\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAowBMAAAAAAAAAAAAAAA==",
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\gameback-end\\ServerGame106\\ServerGame106\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "ServerGame106\\Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\gameback-end\\ServerGame106\\ServerGame106\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "ServerGame106\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T15:44:04.235Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-21T15:57:02.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Game106Model.cs",
+              "DocumentMoniker": "D:\\gameback-end\\ServerGame106\\ServerGame106\\Models\\Game106Model.cs",
+              "RelativeDocumentMoniker": "ServerGame106\\Models\\Game106Model.cs",
+              "ToolTip": "D:\\gameback-end\\ServerGame106\\ServerGame106\\Models\\Game106Model.cs",
+              "RelativeToolTip": "ServerGame106\\Models\\Game106Model.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T15:34:03.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameLevel.cs",
+              "DocumentMoniker": "D:\\gameback-end\\ServerGame106\\ServerGame106\\Models\\GameLevel.cs",
+              "RelativeDocumentMoniker": "ServerGame106\\Models\\GameLevel.cs",
+              "ToolTip": "D:\\gameback-end\\ServerGame106\\ServerGame106\\Models\\GameLevel.cs",
+              "RelativeToolTip": "ServerGame106\\Models\\GameLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T15:46:52.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LevelResult.cs",
+              "DocumentMoniker": "D:\\gameback-end\\ServerGame106\\ServerGame106\\Models\\LevelResult.cs",
+              "RelativeDocumentMoniker": "ServerGame106\\Models\\LevelResult.cs",
+              "ToolTip": "D:\\gameback-end\\ServerGame106\\ServerGame106\\Models\\LevelResult.cs",
+              "RelativeToolTip": "ServerGame106\\Models\\LevelResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T16:46:16.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Question.cs",
+              "DocumentMoniker": "D:\\gameback-end\\ServerGame106\\ServerGame106\\Models\\Question.cs",
+              "RelativeDocumentMoniker": "ServerGame106\\Models\\Question.cs",
+              "ToolTip": "D:\\gameback-end\\ServerGame106\\ServerGame106\\Models\\Question.cs",
+              "RelativeToolTip": "ServerGame106\\Models\\Question.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T15:48:51.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Region.cs",
+              "DocumentMoniker": "D:\\gameback-end\\ServerGame106\\ServerGame106\\Models\\Region.cs",
+              "RelativeDocumentMoniker": "ServerGame106\\Models\\Region.cs",
+              "ToolTip": "D:\\gameback-end\\ServerGame106\\ServerGame106\\Models\\Region.cs",
+              "RelativeToolTip": "ServerGame106\\Models\\Region.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T15:48:20.553Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "APIGameController.cs",
-              "DocumentMoniker": "D:\\gameback-end\\ServerGame106\\ServerGame106\\Controllers\\APIGameController.cs",
-              "RelativeDocumentMoniker": "ServerGame106\\Controllers\\APIGameController.cs",
-              "ToolTip": "D:\\gameback-end\\ServerGame106\\ServerGame106\\Controllers\\APIGameController.cs",
-              "RelativeToolTip": "ServerGame106\\Controllers\\APIGameController.cs",
-              "ViewState": "AgIAABUBAAAAAAAAAAAmwEMBAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T15:31:54.046Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "ResponseApi.cs",
               "DocumentMoniker": "D:\\gameback-end\\ServerGame106\\ServerGame106\\Models\\ResponseApi.cs",
               "RelativeDocumentMoniker": "ServerGame106\\Models\\ResponseApi.cs",
@@ -198,68 +183,27 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "D:\\gameback-end\\ServerGame106\\ServerGame106\\DTO\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "ServerGame106\\DTO\\RegisterDTO.cs",
+              "ToolTip": "D:\\gameback-end\\ServerGame106\\ServerGame106\\DTO\\RegisterDTO.cs",
+              "RelativeToolTip": "ServerGame106\\DTO\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T17:01:19.246Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "20251121164907_addLevelResultToDb.cs",
-              "DocumentMoniker": "D:\\gameback-end\\ServerGame106\\ServerGame106\\Migrations\\20251121164907_addLevelResultToDb.cs",
-              "RelativeDocumentMoniker": "ServerGame106\\Migrations\\20251121164907_addLevelResultToDb.cs",
-              "ToolTip": "D:\\gameback-end\\ServerGame106\\ServerGame106\\Migrations\\20251121164907_addLevelResultToDb.cs",
-              "RelativeToolTip": "ServerGame106\\Migrations\\20251121164907_addLevelResultToDb.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "LevelResultDTO.cs",
+              "DocumentMoniker": "D:\\gameback-end\\ServerGame106\\ServerGame106\\DTO\\LevelResultDTO.cs",
+              "RelativeDocumentMoniker": "ServerGame106\\DTO\\LevelResultDTO.cs",
+              "ToolTip": "D:\\gameback-end\\ServerGame106\\ServerGame106\\DTO\\LevelResultDTO.cs",
+              "RelativeToolTip": "ServerGame106\\DTO\\LevelResultDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T16:49:07.664Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "LevelResult.cs",
-              "DocumentMoniker": "D:\\gameback-end\\ServerGame106\\ServerGame106\\Models\\LevelResult.cs",
-              "RelativeDocumentMoniker": "ServerGame106\\Models\\LevelResult.cs",
-              "ToolTip": "D:\\gameback-end\\ServerGame106\\ServerGame106\\Models\\LevelResult.cs",
-              "RelativeToolTip": "ServerGame106\\Models\\LevelResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T16:46:16.328Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "20251121163943_SeedData.cs",
-              "DocumentMoniker": "D:\\gameback-end\\ServerGame106\\ServerGame106\\Migrations\\20251121163943_SeedData.cs",
-              "RelativeDocumentMoniker": "ServerGame106\\Migrations\\20251121163943_SeedData.cs",
-              "ToolTip": "D:\\gameback-end\\ServerGame106\\ServerGame106\\Migrations\\20251121163943_SeedData.cs",
-              "RelativeToolTip": "ServerGame106\\Migrations\\20251121163943_SeedData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T16:39:43.572Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "20251121155954_addUserModelToDb.cs",
-              "DocumentMoniker": "D:\\gameback-end\\ServerGame106\\ServerGame106\\Migrations\\20251121155954_addUserModelToDb.cs",
-              "RelativeDocumentMoniker": "ServerGame106\\Migrations\\20251121155954_addUserModelToDb.cs",
-              "ToolTip": "D:\\gameback-end\\ServerGame106\\ServerGame106\\Migrations\\20251121155954_addUserModelToDb.cs",
-              "RelativeToolTip": "ServerGame106\\Migrations\\20251121155954_addUserModelToDb.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T15:59:54.454Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "D:\\gameback-end\\ServerGame106\\ServerGame106\\Models\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "ServerGame106\\Models\\ApplicationUser.cs",
-              "ToolTip": "D:\\gameback-end\\ServerGame106\\ServerGame106\\Models\\ApplicationUser.cs",
-              "RelativeToolTip": "ServerGame106\\Models\\ApplicationUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T15:57:02.745Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-21T17:07:24.286Z"
             },
             {
               "$type": "Document",
@@ -269,14 +213,109 @@
               "RelativeDocumentMoniker": "ServerGame106\\Data\\ApplicationDbContext.cs",
               "ToolTip": "D:\\gameback-end\\ServerGame106\\ServerGame106\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "ServerGame106\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAwwEEAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAwwEEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T15:43:54.315Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-21T15:43:54.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "APIGameController.cs",
+              "DocumentMoniker": "D:\\gameback-end\\ServerGame106\\ServerGame106\\Controllers\\APIGameController.cs",
+              "RelativeDocumentMoniker": "ServerGame106\\Controllers\\APIGameController.cs",
+              "ToolTip": "D:\\gameback-end\\ServerGame106\\ServerGame106\\Controllers\\APIGameController.cs",
+              "RelativeToolTip": "ServerGame106\\Controllers\\APIGameController.cs",
+              "ViewState": "AgIAAP4AAAAAAAAAAAAUwEMBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T15:31:54.046Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\gameback-end\\ServerGame106\\ServerGame106\\Program.cs",
+              "RelativeDocumentMoniker": "ServerGame106\\Program.cs",
+              "ToolTip": "D:\\gameback-end\\ServerGame106\\ServerGame106\\Program.cs",
+              "RelativeToolTip": "ServerGame106\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T15:44:04.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ServerGame106.csproj",
+              "DocumentMoniker": "D:\\gameback-end\\ServerGame106\\ServerGame106\\ServerGame106.csproj",
+              "RelativeDocumentMoniker": "ServerGame106\\ServerGame106.csproj",
+              "ToolTip": "D:\\gameback-end\\ServerGame106\\ServerGame106\\ServerGame106.csproj",
+              "RelativeToolTip": "ServerGame106\\ServerGame106.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-21T17:00:45.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RatingVM.cs",
+              "DocumentMoniker": "D:\\gameback-end\\ServerGame106\\ServerGame106\\ViewModel\\RatingVM.cs",
+              "RelativeDocumentMoniker": "ServerGame106\\ViewModel\\RatingVM.cs",
+              "ToolTip": "D:\\gameback-end\\ServerGame106\\ServerGame106\\ViewModel\\RatingVM.cs",
+              "RelativeToolTip": "ServerGame106\\ViewModel\\RatingVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T17:09:51.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserInformationVM.cs",
+              "DocumentMoniker": "D:\\gameback-end\\ServerGame106\\ServerGame106\\ViewModel\\UserInformationVM.cs",
+              "RelativeDocumentMoniker": "ServerGame106\\ViewModel\\UserInformationVM.cs",
+              "ToolTip": "D:\\gameback-end\\ServerGame106\\ServerGame106\\ViewModel\\UserInformationVM.cs",
+              "RelativeToolTip": "ServerGame106\\ViewModel\\UserInformationVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T17:11:05.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20251121164907_addLevelResultToDb.cs",
+              "DocumentMoniker": "D:\\gameback-end\\ServerGame106\\ServerGame106\\Migrations\\20251121164907_addLevelResultToDb.cs",
+              "RelativeDocumentMoniker": "ServerGame106\\Migrations\\20251121164907_addLevelResultToDb.cs",
+              "ToolTip": "D:\\gameback-end\\ServerGame106\\ServerGame106\\Migrations\\20251121164907_addLevelResultToDb.cs",
+              "RelativeToolTip": "ServerGame106\\Migrations\\20251121164907_addLevelResultToDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T16:49:07.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20251121163943_SeedData.cs",
+              "DocumentMoniker": "D:\\gameback-end\\ServerGame106\\ServerGame106\\Migrations\\20251121163943_SeedData.cs",
+              "RelativeDocumentMoniker": "ServerGame106\\Migrations\\20251121163943_SeedData.cs",
+              "ToolTip": "D:\\gameback-end\\ServerGame106\\ServerGame106\\Migrations\\20251121163943_SeedData.cs",
+              "RelativeToolTip": "ServerGame106\\Migrations\\20251121163943_SeedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T16:39:43.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20251121155954_addUserModelToDb.cs",
+              "DocumentMoniker": "D:\\gameback-end\\ServerGame106\\ServerGame106\\Migrations\\20251121155954_addUserModelToDb.cs",
+              "RelativeDocumentMoniker": "ServerGame106\\Migrations\\20251121155954_addUserModelToDb.cs",
+              "ToolTip": "D:\\gameback-end\\ServerGame106\\ServerGame106\\Migrations\\20251121155954_addUserModelToDb.cs",
+              "RelativeToolTip": "ServerGame106\\Migrations\\20251121155954_addUserModelToDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T15:59:54.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "20251121155111_addModelsGameToDb.cs",
               "DocumentMoniker": "D:\\gameback-end\\ServerGame106\\ServerGame106\\Migrations\\20251121155111_addModelsGameToDb.cs",
               "RelativeDocumentMoniker": "ServerGame106\\Migrations\\20251121155111_addModelsGameToDb.cs",
@@ -284,51 +323,11 @@
               "RelativeToolTip": "ServerGame106\\Migrations\\20251121155111_addModelsGameToDb.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T15:51:11.298Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-21T15:51:11.298Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Question.cs",
-              "DocumentMoniker": "D:\\gameback-end\\ServerGame106\\ServerGame106\\Models\\Question.cs",
-              "RelativeDocumentMoniker": "ServerGame106\\Models\\Question.cs",
-              "ToolTip": "D:\\gameback-end\\ServerGame106\\ServerGame106\\Models\\Question.cs",
-              "RelativeToolTip": "ServerGame106\\Models\\Question.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T15:48:51.576Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Region.cs",
-              "DocumentMoniker": "D:\\gameback-end\\ServerGame106\\ServerGame106\\Models\\Region.cs",
-              "RelativeDocumentMoniker": "ServerGame106\\Models\\Region.cs",
-              "ToolTip": "D:\\gameback-end\\ServerGame106\\ServerGame106\\Models\\Region.cs",
-              "RelativeToolTip": "ServerGame106\\Models\\Region.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T15:48:20.553Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "GameLevel.cs",
-              "DocumentMoniker": "D:\\gameback-end\\ServerGame106\\ServerGame106\\Models\\GameLevel.cs",
-              "RelativeDocumentMoniker": "ServerGame106\\Models\\GameLevel.cs",
-              "ToolTip": "D:\\gameback-end\\ServerGame106\\ServerGame106\\Models\\GameLevel.cs",
-              "RelativeToolTip": "ServerGame106\\Models\\GameLevel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T15:46:52.271Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\gameback-end\\ServerGame106\\ServerGame106\\appsettings.json",
               "RelativeDocumentMoniker": "ServerGame106\\appsettings.json",
@@ -336,25 +335,7 @@
               "RelativeToolTip": "ServerGame106\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-21T15:42:42.729Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Game106Model.cs",
-              "DocumentMoniker": "D:\\gameback-end\\ServerGame106\\ServerGame106\\Models\\Game106Model.cs",
-              "RelativeDocumentMoniker": "ServerGame106\\Models\\Game106Model.cs",
-              "ToolTip": "D:\\gameback-end\\ServerGame106\\ServerGame106\\Models\\Game106Model.cs",
-              "RelativeToolTip": "ServerGame106\\Models\\Game106Model.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-21T15:34:03.189Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-21T15:42:42.729Z"
             },
             {
               "$type": "Bookmark",
